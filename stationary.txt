@@ -1,0 +1,21 @@
+1
+Notepad
+100
+2
+Pencil Sharpener
+20
+3
+Pencil Case
+30
+4
+Eraser
+20
+5
+Stapler
+30
+6
+Pencil
+10
+7
+Whitener
+40
